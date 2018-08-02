@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="C:/Boomi AtomSphere/Atom/Atom - Boomi_AnthonyRabiaza - RYUKYU/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Boomi AtomSphere/Atom/Atom - Boomi_AnthonyRabiaza - RYUKYU/lib/mimepull.jar"/>
+	<classpathentry kind="lib" path="C:/Boomi AtomSphere/Atom/Atom - Boomi_AnthonyRabiaza - RYUKYU/lib/boomi-util.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Boomi AtomSphere/Atom/Atom - Boomi_AnthonyRabiaza - RYUKYU/lib/container-execution.jar"/>
+	<classpathentry kind="lib" path="C:/Boomi AtomSphere/Atom/Atom - Boomi_AnthonyRabiaza - RYUKYU/lib/container-documenthandler-scripting.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
